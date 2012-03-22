@@ -1,3 +1,6 @@
+### NOT REQUIRED IN RADIANT >= 1.0
+
+
 # Page Fields
 
 Adds editable fields to your pages. These fields can be found in the "More"
